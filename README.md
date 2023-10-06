@@ -10,7 +10,7 @@
 <body>
  <div class="container d-flex align-items-center h-100">
   <div class="row">
-  	<header class="text-center col-12">
+  	<header class="col col-12">
      <h2 class="text-uppercase">interactive study materials in form of learn journeys & concept videos</h2>
     </header>
     <div class="buffer col-12"></div>

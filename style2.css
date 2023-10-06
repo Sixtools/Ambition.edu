@@ -14,11 +14,7 @@ h1 {
 	font-size: 3rem;
 	color: #2b6299;
 }
-hr {
-	border-color: #9db1ac;
-	border-width: 3px;
-	max-width: 70px; 
-}
+
 .buffer {
 	height: 10rem;
 }

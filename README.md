@@ -1,4 +1,3 @@
-
 <html>
 <head>
 	<!-- Required meta tags -->
@@ -12,10 +11,11 @@
  <div class="container d-flex align-items-center h-100">
   <div class="row">
   	<header class="text-center col-12">
-     <h2 class="text-uppercase">interactive study materials in form of <strong>learn journeys & concept videos</h2>
+     <h2 class="text-uppercase">interactive study materials in form of learn journeys & concept videos</h2>
     </header>
     <div class="buffer col-12"></div>
      <section class="text-center col-12">
+      <hr>
       <a href="https://byjus.com/learn/account/login?referrer=source%3Diframe%26mx_Campaign_Type%3Dlogin-button%26SourceMedium%3Dwebsite%26mx_Page_Category%3Dsocial-science&source=iframe"><button class="btn btn-primary btn-xl"><strong>find out more</strong></button></a>
      </section>
   </div>

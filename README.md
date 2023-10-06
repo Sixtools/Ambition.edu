@@ -12,7 +12,7 @@
  <div class="container d-flex align-items-center h-100">
   <div class="row">
   	<header class="text-center col-12">
-     <h1 class="text-uppercase">interactive study materialsin form of <strong>learn journeys & concept videos</h1>
+     <h1 class="text-uppercase">interactive study materials in form of <strong>learn journeys & concept videos</h1>
     </header>
     <div class="buffer col-12"></div>
      <section class="text-center col-12">
